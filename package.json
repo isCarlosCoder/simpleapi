@@ -2,9 +2,9 @@
   "name": "simpleapi",
   "version": "1.0.0",
   "description": "a simple application testing methods of creating routes",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "iscarloscoder",
